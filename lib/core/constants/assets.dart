@@ -9,6 +9,8 @@ abstract class Assets {
       'assets/images/tasbeh_background_img.png';
   static const String radioBackground =
       'assets/images/radio_background_img.png';
+  static const String hadethCardImg =
+      "assets/images/hadith_card_background_img.png";
   static const String vectorRightIcn = "assets/icons/vector_right_icn.png";
   static const String vectorLeftIcn = "assets/icons/vector_left_icn.png";
   static const String mosqueImg = "assets/images/mosque_img.png";
